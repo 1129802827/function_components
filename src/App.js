@@ -7,7 +7,7 @@ function App() {
   return ( 
     <div className="App">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <FunctionComponents/>
+        {/* <FunctionComponents/> */}
         <HookFunC></HookFunC>
     </div>
   );
